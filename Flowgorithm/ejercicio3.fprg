@@ -2,7 +2,7 @@
 <flowgorithm fileversion="4.2">
     <attributes>
         <attribute name="name" value="ClasificadorCompleto"/>
-        <attribute name="authors" value="Gemini"/>
+        <attribute name="authors" value="Sebas"/>
         <attribute name="about" value="Reto condicional 3: Clasifica un n&#250;mero en Par/Impar y Positivo/Negativo."/>
         <attribute name="saved" value="2025-11-15 04:49:54 p.&#160;m."/>
         <attribute name="created" value="VVNVQVJJTztERVNLVE9QLUo5SVVKQzc7MjAyNS0xMS0xNTswNDo0NDo0MSBwLsKgbS47MzIxNA=="/>
