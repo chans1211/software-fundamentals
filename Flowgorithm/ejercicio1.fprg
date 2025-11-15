@@ -53,11 +53,11 @@
         <output expression="&quot;----------------------------------&quot;" newline="True"/>
         <if expression="Dado1 == Dado2">
             <then>
-                <output expression="&quot;🎉 YOU WIN! 🎉&quot;" newline="True"/>
+                <output expression="&quot; YOU WIN! &quot;" newline="True"/>
                 <output expression="&quot;¡El valor de los dados es EXACTAMENTE el mismo!&quot;" newline="True"/>
             </then>
             <else>
-                <output expression="&quot;💔 GAME OVER 💔&quot;" newline="True"/>
+                <output expression="&quot; GAME OVER &quot;" newline="True"/>
                 <output expression="&quot;Los dados han caído en valores diferentes.&quot;" newline="True"/>
             </else>
         </if>
