@@ -2,7 +2,7 @@
 <flowgorithm fileversion="4.0">
 <attributes>
 <attribute name="name" value="SimularLanzamientoDeDados"/>
-<attribute name="authors" value="Gemini"/>
+<attribute name="authors" value="Sebas"/>
 <attribute name="about" value="Reto condicional 1: Simula dos dados, verifica igualdad y si son divisibles por 2 (PAR/IMPAR)."/>
 <attribute name="saved" value="2025-11-15 16:20:00 PM"/>
 </attributes>
